@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 13px;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
+
+#body-content{
+    min-height: 85vh;
+}
+
+.information-team > span{
+    display: block;
+    margin-top: 5px;
+}
+
+.website-action {
+    color: #10eb59 !important;
+}
+
+.badge-blue{
+    background-color: #e65100;
+    color: #f3e5f5;
+    padding: 5px;
+}
+
+.page-footer{
+    padding: 15px !important;
+}

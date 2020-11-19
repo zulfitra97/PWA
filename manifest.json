@@ -1,0 +1,22 @@
+{
+    "name": "Premier League",
+    "short_name": "EPL",
+    "description": "Football Standings EPL",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#82b1ff",
+    "theme_color": "#0d47a1",
+    "icons": [
+        {
+            "src": "bola192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "bola512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "926325445683"
+}
