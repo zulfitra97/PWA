@@ -1,2 +1,2 @@
 firebase : https://zulfitra-dicoding.firebaseapp.com/
-firebase : https://zulfitra-dicoding.web.app
+Github   : https://github.com/zulfitra97/PWA
